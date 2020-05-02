@@ -1,0 +1,15 @@
+{
+  "name": "scripts-h1",
+  "version": "1.0.0",
+  "description": "Scripts for kill the cornojobs!!",
+  "main": "app.js",
+  "scripts": {
+    "test": "test scripts-h1"
+  },
+  "author": "Humberto Barone",
+  "license": "ISC",
+  "dependencies": {
+    "axios": "^0.19.2",
+    "requirejs": "^2.3.6"
+  }
+}
