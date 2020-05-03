@@ -115,7 +115,7 @@ function normalizeString(string) {
  * @param {*} string - string do json gerado com o menu 
  */
 function createMenuJson(string) {
-    path = "./Codeby/Suporte/Scripts/json/menu-category.json"
+    path = "./Codeby/Estudo/vtex.io-menu-category-generator/json/menu-category.json"
     fs.writeFile(path, string, function(err) {
         if (err) throw err;
         console.log(`Menu de categorias gerado com suceso em: ${path}`);
@@ -154,9 +154,8 @@ async function debug() {
             //console.log(categories)
 
         categories.map(function(item, index) {
-
             json.items.push({
-                "name": item.name.toLowerCase(),
+                "name": normalizeString(item.name),
                 "block": "itemBlock",
                 "props": {
                     "id": "menu-item-category",
@@ -172,13 +171,13 @@ async function debug() {
                     }
                 },
                 "blocks": item.hasChildren ? [{
-                    "name": item.name.toLowerCase(),
+                    "name": normalizeString(item.name),
                     "block": "accordionBlock",
                     "props": {
 
                     },
                     "children": [{
-                        "name": item.name.toLowerCase(),
+                        "name": normalizeString(item.name),
                         "block": "subMenuBlock",
                         "props": {
                             "orientation": "vertical"

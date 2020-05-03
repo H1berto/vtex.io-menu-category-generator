@@ -1887,7 +1887,7 @@
 			}
 		}
 	},
-	"menu-item#saúde e cuidados": {
+	"menu-item#saude-e-cuidados": {
 		"id": "menu-item-category",
 		"type": "custom",
 		"iconId": null,
@@ -1900,9 +1900,9 @@
 			"text": "Saúde e Cuidados"
 		},
 		"blocks": {
-			"vtex.menu@2.x:submenu.accordion#saúde e cuidados": {
+			"vtex.menu@2.x:submenu.accordion#saude-e-cuidados": {
 				"children": {
-					"vtex.menu@2.x:menu#saúde e cuidados": {
+					"vtex.menu@2.x:menu#saude-e-cuidados": {
 						"orientation": "vertical",
 						"children": {
 							"menu-item#acessorios-para-exames": {
@@ -2615,7 +2615,7 @@
 			}
 		}
 	},
-	"menu-item#beleza e bem-estar": {
+	"menu-item#beleza-e-bem-estar": {
 		"id": "menu-item-category",
 		"type": "custom",
 		"iconId": null,
@@ -2628,9 +2628,9 @@
 			"text": "Beleza e Bem-Estar"
 		},
 		"blocks": {
-			"vtex.menu@2.x:submenu.accordion#beleza e bem-estar": {
+			"vtex.menu@2.x:submenu.accordion#beleza-e-bem-estar": {
 				"children": {
-					"vtex.menu@2.x:menu#beleza e bem-estar": {
+					"vtex.menu@2.x:menu#beleza-e-bem-estar": {
 						"orientation": "vertical",
 						"children": {
 							"menu-item#cabelos": {
@@ -3619,7 +3619,7 @@
 			}
 		}
 	},
-	"menu-item#dermocosméticos": {
+	"menu-item#dermocosmeticos": {
 		"id": "menu-item-category",
 		"type": "custom",
 		"iconId": null,
@@ -3632,9 +3632,9 @@
 			"text": "Dermocosméticos"
 		},
 		"blocks": {
-			"vtex.menu@2.x:submenu.accordion#dermocosméticos": {
+			"vtex.menu@2.x:submenu.accordion#dermocosmeticos": {
 				"children": {
-					"vtex.menu@2.x:menu#dermocosméticos": {
+					"vtex.menu@2.x:menu#dermocosmeticos": {
 						"orientation": "vertical",
 						"children": {
 							"menu-item#cabelos": {
@@ -3741,7 +3741,7 @@
 			}
 		}
 	},
-	"menu-item#mamãe e bebê": {
+	"menu-item#mamae-e-bebe": {
 		"id": "menu-item-category",
 		"type": "custom",
 		"iconId": null,
@@ -3754,9 +3754,9 @@
 			"text": "Mamãe e Bebê"
 		},
 		"blocks": {
-			"vtex.menu@2.x:submenu.accordion#mamãe e bebê": {
+			"vtex.menu@2.x:submenu.accordion#mamae-e-bebe": {
 				"children": {
-					"vtex.menu@2.x:menu#mamãe e bebê": {
+					"vtex.menu@2.x:menu#mamae-e-bebe": {
 						"orientation": "vertical",
 						"children": {
 							"menu-item#alimentacao-para-bebes-e-criancas": {
@@ -4573,7 +4573,7 @@
 			}
 		}
 	},
-	"menu-item#vitaminas e suplementos": {
+	"menu-item#vitaminas-e-suplementos": {
 		"id": "menu-item-category",
 		"type": "custom",
 		"iconId": null,
@@ -4586,9 +4586,9 @@
 			"text": "Vitaminas e Suplementos"
 		},
 		"blocks": {
-			"vtex.menu@2.x:submenu.accordion#vitaminas e suplementos": {
+			"vtex.menu@2.x:submenu.accordion#vitaminas-e-suplementos": {
 				"children": {
-					"vtex.menu@2.x:menu#vitaminas e suplementos": {
+					"vtex.menu@2.x:menu#vitaminas-e-suplementos": {
 						"orientation": "vertical",
 						"children": {
 							"menu-item#pre-e-pos-treino": {
@@ -4963,7 +4963,7 @@
 			}
 		}
 	},
-	"menu-item#alimentos e bebidas": {
+	"menu-item#alimentos-e-bebidas": {
 		"id": "menu-item-category",
 		"type": "custom",
 		"iconId": null,
@@ -4976,9 +4976,9 @@
 			"text": "Alimentos e Bebidas"
 		},
 		"blocks": {
-			"vtex.menu@2.x:submenu.accordion#alimentos e bebidas": {
+			"vtex.menu@2.x:submenu.accordion#alimentos-e-bebidas": {
 				"children": {
-					"vtex.menu@2.x:menu#alimentos e bebidas": {
+					"vtex.menu@2.x:menu#alimentos-e-bebidas": {
 						"orientation": "vertical",
 						"children": {
 							"menu-item#doces-e-salgados": {
@@ -5311,7 +5311,7 @@
 			}
 		}
 	},
-	"menu-item#higiene e cuidados pessoais": {
+	"menu-item#higiene-e-cuidados-pessoais": {
 		"id": "menu-item-category",
 		"type": "custom",
 		"iconId": null,
@@ -5324,9 +5324,9 @@
 			"text": "Higiene e Cuidados Pessoais"
 		},
 		"blocks": {
-			"vtex.menu@2.x:submenu.accordion#higiene e cuidados pessoais": {
+			"vtex.menu@2.x:submenu.accordion#higiene-e-cuidados-pessoais": {
 				"children": {
-					"vtex.menu@2.x:menu#higiene e cuidados pessoais": {
+					"vtex.menu@2.x:menu#higiene-e-cuidados-pessoais": {
 						"orientation": "vertical",
 						"children": {
 							"menu-item#cuidados-femininos": {
